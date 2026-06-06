@@ -1,0 +1,18 @@
+{
+  "name": "RAIte Brain",
+  "short_name": "RAIte",
+  "description": "複数AIのコンテキストを管理し、SNS投稿文を生成するAIコックピット",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
