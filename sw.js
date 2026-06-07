@@ -1,4 +1,4 @@
-const CACHE = "raite-brain-v3-2";
+const CACHE = "raite-brain-v2";
 const ASSETS = ["./index.html", "./manifest.json", "./icon.svg"];
 
 self.addEventListener("install", e => {
